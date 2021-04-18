@@ -1,0 +1,11 @@
+.inner{width: 100%; max-width: 1024px; margin: 0 auto;}
+
+
+.header .ui.pointing.secondary.menu{height: 60px; display: flex; align-items: center; }
+    .header .ui.secondary.pointing.menu .item{align-self: center;}
+
+.main .slider .slick-slide{height: 400px; background:#e1e1e1;}
+
+.main .card-list{margin-top: 50px;}
+    .main .card-list .ui.cards{display: flex; align-items: center; justify-content: center;}
+    .main .card-list .ui.cards .ui.card{width:235px;}

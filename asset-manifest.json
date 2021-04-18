@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/timeLineMaker/static/css/main.42fb4308.chunk.css",
+    "main.js": "/timeLineMaker/static/js/main.203a600f.chunk.js",
+    "main.js.map": "/timeLineMaker/static/js/main.203a600f.chunk.js.map",
+    "runtime-main.js": "/timeLineMaker/static/js/runtime-main.7e37ee62.js",
+    "runtime-main.js.map": "/timeLineMaker/static/js/runtime-main.7e37ee62.js.map",
+    "static/css/2.1167a5b8.chunk.css": "/timeLineMaker/static/css/2.1167a5b8.chunk.css",
+    "static/js/2.66fca0f4.chunk.js": "/timeLineMaker/static/js/2.66fca0f4.chunk.js",
+    "static/js/2.66fca0f4.chunk.js.map": "/timeLineMaker/static/js/2.66fca0f4.chunk.js.map",
+    "index.html": "/timeLineMaker/index.html",
+    "static/css/2.1167a5b8.chunk.css.map": "/timeLineMaker/static/css/2.1167a5b8.chunk.css.map",
+    "static/css/main.42fb4308.chunk.css.map": "/timeLineMaker/static/css/main.42fb4308.chunk.css.map",
+    "static/js/2.66fca0f4.chunk.js.LICENSE.txt": "/timeLineMaker/static/js/2.66fca0f4.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/timeLineMaker/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/slick-theme.css": "/timeLineMaker/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e37ee62.js",
+    "static/css/2.1167a5b8.chunk.css",
+    "static/js/2.66fca0f4.chunk.js",
+    "static/css/main.42fb4308.chunk.css",
+    "static/js/main.203a600f.chunk.js"
+  ]
+}
